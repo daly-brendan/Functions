@@ -96,7 +96,6 @@ char_count(my_message)
 
 """
 """
-
 #string to list converter
 def str_converter(string):
     list1 = []
@@ -104,4 +103,4 @@ def str_converter(string):
     return list1
 orig_str = 'abcde'
 new_list = (str_converter(orig_str))
-#there has to be an easier way of doing this
+        #there has to be an easier way of doing this
